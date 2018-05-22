@@ -215,6 +215,24 @@
       ],
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fbrotherly-love.jpg?alt=media&token=a15d5342-3ee2-4834-b3d1-0625db231134",
       "story": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+    },
+    {
+      "movie": "Clash of Clans",
+      "year": 1998,
+      "rating": 8.6,
+      "duration": "169 min",
+      "director": "Steven Spielberg",
+      "tagline": "There was only one man left in the family, and the mission was to save him",
+      "cast": [
+        {
+          "name": "Tom Hanks"
+        },
+        {
+          "name": "Matt Damon"
+        }
+      ],
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FClash-of-Clans-colors.jpg?alt=media&token=bbb53f54-cf66-4bff-abca-9f4ae205ea22",
+      "story": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
     }
   ]
 }
