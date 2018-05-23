@@ -1,7 +1,7 @@
 {
   "pictures": [
     {
-      "movie": "Afro Samurai",
+      "title": "Afro Samurai",
       "year": 2012,
       "rating": 7.8,
       "duration": "141 min",
@@ -22,7 +22,7 @@
       "story": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
     },
     {
-      "movie": "Asta and Yuno",
+      "title": "Asta and Yuno",
       "year": 2014,
       "rating": 8.7,
       "duration": "169 min",
@@ -46,7 +46,7 @@
       "story": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
     },
 	{
-      "movie": "Attack on Titan",
+      "title": "Attack on Titan",
       "year": 2015,
       "rating": 4.0,
       "duration": "100 min",
@@ -67,7 +67,7 @@
       "story": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy."
     },
 	{
-      "movie": "Beast Boy",
+      "title": "Beast Boy",
       "year": 2008,
       "rating": 9.0,
       "duration": "152 min",
@@ -88,7 +88,7 @@
       "story": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
     },
     {
-      "movie": "Black Panther",
+      "title": "Black Panther",
       "year": 2003,
       "rating": 8.9,
       "duration": "201 min",
@@ -109,7 +109,7 @@
       "story": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
     },
     {
-      "movie": "Black Panther vs Jaguar",
+      "title": "Black Panther vs Jaguar",
       "year": 1997,
       "rating": 8.6,
       "duration": "116 min",
@@ -130,7 +130,7 @@
       "story": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
     },
     {
-      "movie": "Blonde Harley",
+      "title": "Blonde Harley",
       "year": 2000,
       "rating": 8.5,
       "duration": "155 min",
@@ -157,7 +157,7 @@
       "story": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge."
     },
     {
-      "movie": "Blue Beetle",
+      "title": "Blue Beetle",
       "year": 1994,
       "rating": 8.5,
       "duration": "89 min",
@@ -178,7 +178,7 @@
       "story": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble."
     },
     {
-      "movie": "Brolly Inks",
+      "title": "Brolly Inks",
       "year": 2008,
       "rating": 8.4,
       "duration": "98 min",
@@ -199,7 +199,7 @@
       "story": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
     },
     {
-      "movie": "Brotherly Love",
+      "title": "Brotherly Love",
       "year": 1998,
       "rating": 8.6,
       "duration": "169 min",
@@ -217,7 +217,7 @@
       "story": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
     },
     {
-      "movie": "Clash of Clans",
+      "title": "Clash of Clans",
       "year": 1998,
       "rating": 8.6,
       "duration": "169 min",
