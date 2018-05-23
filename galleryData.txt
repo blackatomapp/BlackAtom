@@ -2,37 +2,37 @@
   "pictures": [
     {
       "title": "Afro Samurai",
-      "year": 2012,
+      "year": 2018,
       "rating": 7.8,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FAfro-Samurai.jpg?alt=media&token=f1d99fab-0451-4886-afa3-4162a5e50c2f"
     },
     {
       "title": "Asta and Yuno",
-      "year": 2014,
+      "year": 2018,
       "rating": 8.7,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fasta-and-yuno.jpg?alt=media&token=c7298195-49a5-402d-926d-ab2cdbc65b11"
     },
 	{
       "title": "Attack on Titan",
-      "year": 2015,
+      "year": 2018,
       "rating": 4.0,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FAttack-on-titan.jpg?alt=media&token=0241f583-1283-4073-9182-68d4e6af0572"
     },
 	{
       "title": "Beast Boy",
-      "year": 2008,
+      "year": 2018,
       "rating": 9.0,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fbeast-boy.jpg?alt=media&token=50ed20d5-c18a-4c15-ac90-bc2128df246c"
     },
     {
       "title": "Black Panther",
-      "year": 2003,
+      "year": 2018,
       "rating": 8.9,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fblackpanther.jpg?alt=media&token=e2d00493-4cc2-4826-9661-624c6ac2969a"
     },
     {
       "title": "Black Panther vs Jaguar",
-      "year": 1997,
+      "year": 2018,
       "rating": 8.6,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fblack-panther-v-jaguar.jpg?alt=media&token=38034396-abe1-4612-99f2-74bf1fbd780d"
     },
@@ -50,19 +50,19 @@
     },
     {
       "title": "Brolly Inks",
-      "year": 2008,
+      "year": 2018,
       "rating": 8.4,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fbrolly-inks.jpg?alt=media&token=4fb287f5-3950-492d-8174-7bc0c834e69f"
     },
     {
       "title": "Brotherly Love",
-      "year": 1998,
+      "year": 2018,
       "rating": 8.6,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fbrotherly-love.jpg?alt=media&token=a15d5342-3ee2-4834-b3d1-0625db231134"
     },
     {
       "title": "Clash of Clans",
-      "year": 1998,
+      "year": 2018,
       "rating": 8.6,
       "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FClash-of-Clans-colors.jpg?alt=media&token=bbb53f54-cf66-4bff-abca-9f4ae205ea22"
     }
