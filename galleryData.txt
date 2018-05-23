@@ -64,7 +64,7 @@
       "title": "Clash of Clans",
       "year": 1998,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FClash-of-Clans-colors.jpg?alt=media&token=bbb53f54-cf66-4bff-abca-9f4ae205ea22",
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FClash-of-Clans-colors.jpg?alt=media&token=bbb53f54-cf66-4bff-abca-9f4ae205ea22"
     }
   ]
 }
