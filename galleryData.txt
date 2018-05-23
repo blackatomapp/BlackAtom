@@ -88,157 +88,157 @@
       "title": "Deadpool and Collasus",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fdeadpool%20and%20collasus.jpg?alt=media&token=32d48117-d434-488b-a3ee-c06e5a8ace83"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fdeadpool%20and%20collasus.jpg?alt=media&token=13545fcb-27d6-4da8-a555-b42e91821bd8"
     },
     {
       "title": "Gaara",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fgaara%20(2).jpg?alt=media&token=8a6598b3-d056-42aa-8cf9-aedbb5f26b7f"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fgaara%20(2).jpg?alt=media&token=c7f858b9-7d68-4c6e-9e2a-994a2f851275"
     },
     {
       "title": "Harley",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fharley.jpg?alt=media&token=2f4f5514-ee80-42c4-86e1-52d07309aaf9"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fharley.jpg?alt=media&token=e635cea1-531e-423c-bf53-c7cd7456a2b1"
     },
     {
       "title": "Hell Boy",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fhell%20boy.jpg?alt=media&token=2fc6e2f8-d7bb-4bc7-9bcd-8acba74948f7"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fhell%20boy.jpg?alt=media&token=251a1823-e03f-4b75-bb5a-0fb6731f0767"
     },
     {
       "title": "Hulk",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fhulk%20(300).jpg?alt=media&token=4aecf8d6-5386-4036-ae21-98fadd9263eb"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fhulk%20(300).jpg?alt=media&token=87b0ff67-f10f-4028-bf3d-5d820a8190d4"
     },
     {
       "title": "Hunter",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FHunter%20x%20hunter%20colors.jpg?alt=media&token=5be60d28-5861-4383-9ff0-e77a795e78cf"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FHunter%20x%20hunter%20colors.jpg?alt=media&token=3c9860ba-7c82-4a06-a339-ec7ddcac54eb"
     },
     {
       "title": "Hydra cap",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fhydra%20cap.jpg?alt=media&token=23134d3c-a81b-4b42-8262-43bfea995519"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fhydra%20cap.jpg?alt=media&token=8fb35724-4d84-497e-82f8-2cd270650acc"
     },
     {
       "title": "Iron Fist",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FIron%20Fist.jpg?alt=media&token=3376a9b9-2886-4baa-b8fa-e924a76fb98a"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FIron%20Fist.jpg?alt=media&token=57a28f5e-daa7-4d93-9121-a37dee59a3ed"
     },
     {
       "title": "Iron Man vs Captain America",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Firon%20man%20v%20cap.jpg?alt=media&token=405dbdef-59fe-4b18-a529-647136ab61e7"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Firon%20man%20v%20cap.jpg?alt=media&token=5b06cd5e-4a00-49cd-825e-a36c0089916d"
     },
     {
       "title": "MHA line Art",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FMHA%20line%20art.jpg?alt=media&token=29056bcf-c060-4019-ab69-7265049e427c"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FMHA%20line%20art.jpg?alt=media&token=66bcab8a-c773-4f58-82af-e7bb9922caed"
     },
     {
       "title": "Naruto and Friends",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fnaruto%20and%20friends.jpg?alt=media&token=c21b0419-762d-4db3-a407-a4f2c7137f03"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fnaruto%20and%20friends.jpg?alt=media&token=1f135299-8fd3-4cf6-9289-a2a2cb8f58d9"
     },
     {
       "title": "Parasyte",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fnaruto%20and%20friends.jpg?alt=media&token=c21b0419-762d-4db3-a407-a4f2c7137f03"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FParasyte.jpg?alt=media&token=236b0db8-6a8d-4eb3-9d23-6808015ec99f"
     },
     {
       "title": "Poke Battle",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fpoke%20battle.jpg?alt=media&token=724b7fcf-7454-4ed3-8bc4-8d6d972ef277"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fpoke%20battle.jpg?alt=media&token=3d159ab4-62f6-42a9-affe-a0177a645f0c"
     },
     {
       "title": "Raven",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FRaven.jpg?alt=media&token=b41a8514-34dc-4bc6-afe0-fbd701cff031"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FRaven.jpg?alt=media&token=7d3330ea-6dfe-4e4d-994a-23b8e875ae59"
     },
     {
       "title": "Red and Blue Harley",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fred%20and%20blue%20harley.jpg?alt=media&token=b83f8001-e856-4fa1-80be-1d09f248374f"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fred%20and%20blue%20harley.jpg?alt=media&token=020862ef-7f09-47ba-974a-0fdaa9e0bb7a"
     },
     {
       "title": "Red Trinity",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FRed%20Trinity.jpg?alt=media&token=4ff607c2-00a8-4273-9447-eaebc2b32bba"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FRed%20Trinity.jpg?alt=media&token=46d42542-1d7e-4fc6-8555-709e4540dee6"
     },
     {
       "title": "Robin",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Frobin.jpg?alt=media&token=42399a33-1e32-47a8-9448-93d33585f37d"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Frobin.jpg?alt=media&token=fe621327-1b36-4ab1-b641-ee7dcec0f361"
     },
     {
       "title": "Saitama",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fsaitama%20colors%2011x%2017.jpg?alt=media&token=20db67c6-478d-4705-9fc5-1b11ef6d772b"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fsaitama%20colors%2011x%2017.jpg?alt=media&token=2c45badd-a21d-4cb7-aafc-80ddd4d329f4"
     },
     {
       "title": "Saitama vs Genos",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fsaitama%20v%20genos.jpg?alt=media&token=ec38107d-e827-4bb5-8b7e-977581d81740"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fsaitama%20v%20genos.jpg?alt=media&token=2727862f-c17b-4698-99e9-4287dfa1a0f0"
     },
     {
       "title": "Samurai Jack",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fsamurai%20jack%20colors.jpg?alt=media&token=0eab4a2e-2643-41f7-8a1f-fe230f1eb569"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fsamurai%20jack%20colors.jpg?alt=media&token=3bf56d49-5a57-4ed8-b58e-76e7411f2ccd"
     },
     {
       "title": "Scorpion",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fscorpion%20Flattened%2011x17.jpg?alt=media&token=820c4a73-b631-48da-8f8d-e8295d022e45"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fscorpion%20Flattened%2011x17.jpg?alt=media&token=8fd23c37-2cb6-4e79-982a-7551a5f98c70"
     },
     {
       "title": "Shazam",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FShazam.jpg?alt=media&token=04621d4c-2f17-43fd-b200-dbcbbb4920ce"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FShazam.jpg?alt=media&token=b0460376-e8f5-4391-844a-302f40719885"
     },
     {
       "title": "Startfire",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fstarfire.jpg?alt=media&token=f25e424b-c5a6-45bd-918e-050fea71606d"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fstarfire.jpg?alt=media&token=abdc341a-ee71-478d-920f-06538064d2a0"
     },
     {
       "title": "Static Shock",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fstatic%20shock.jpg?alt=media&token=c6bf5c09-e6e3-4a6f-b56e-acff75862c57"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fstatic%20shock.jpg?alt=media&token=684b2038-40e8-4746-82d6-9701e32ad06f"
     },
     {
       "title": "Wonder Girl",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FWonder%20Girl.jpg?alt=media&token=29eb1e80-1664-452f-88ad-abc66fcb52ea"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2FWonder%20Girl.jpg?alt=media&token=ed599b04-b26d-4f13-b75f-dd426d58d7b6"
     },
     {   
       "title": "Zamasu",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fzamasu%20and%20black%20colors.jpg?alt=media&token=773a38b0-0a54-4e72-a7ba-637d9d8e25ce"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fzamasu%20and%20black%20colors.jpg?alt=media&token=ad3c2faa-867b-40ab-9259-65de151698c5"
     }
   ]
 }
