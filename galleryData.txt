@@ -88,7 +88,7 @@
       "title": "Deadpool and Collasus",
       "year": 2018,
       "rating": 8.6,
-      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fdeadpool%20and%20collasus.jpg?alt=media&token=292cf868-d125-4360-a88b-9d856f62a690"
+      "image": "https://firebasestorage.googleapis.com/v0/b/black-atom.appspot.com/o/gallery%2Fdeadpool%20and%20collasus.jpg?alt=media&token=32d48117-d434-488b-a3ee-c06e5a8ace83"
     },
     {
       "title": "Gaara",
