@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "title": "Black Atom Event 1",
+      "date": "7/21/18",
+      "place": "Civic Center",
+      "notes": "Free T-Shirts to the first 50 customers"
+    },
+    {
+      "title": "Black Atom Event 2",
+      "date": "8/5/18",
+      "place": "Madison Square Garden",
+      "notes": "Free hats to the first 50 customers"
+    },
+    {
+      "title": "Black Atom Event 3",
+      "date": "8/15/18",
+      "place": "Barns and Noble, Two Notch Rd.",
+      "notes": "Free signing to the first 50 customers"
+    }
+  ]
+}
