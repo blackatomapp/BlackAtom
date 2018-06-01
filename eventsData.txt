@@ -19,33 +19,33 @@
       "notes": "Free signing to the first 50 customers"
     },
     {
-      "title": "Black Atom Event 3",
-      "date": "8/15/18",
-      "place": "Barns and Noble, Two Notch Rd.",
+      "title": "Black Atom Event 4",
+      "date": "8/19/18",
+      "place": "Macy's",
       "notes": "Free signing to the first 50 customers"
     },
     {
-      "title": "Black Atom Event 3",
-      "date": "8/15/18",
-      "place": "Barns and Noble, Two Notch Rd.",
+      "title": "Black Atom Event 5",
+      "date": "8/25/18",
+      "place": "Lowe's",
       "notes": "Free signing to the first 50 customers"
     },
     {
-      "title": "Black Atom Event 3",
-      "date": "8/15/18",
-      "place": "Barns and Noble, Two Notch Rd.",
+      "title": "Black Atom Event 6",
+      "date": "8/30/18",
+      "place": "Home Depot",
       "notes": "Free signing to the first 50 customers"
     },
     {
-      "title": "Black Atom Event 3",
-      "date": "8/15/18",
-      "place": "Barns and Noble, Two Notch Rd.",
+      "title": "Black Atom Event 7",
+      "date": "9/15/18",
+      "place": "Chickfila",
       "notes": "Free signing to the first 50 customers"
     },
     {
-      "title": "Black Atom Event 3",
-      "date": "8/15/18",
-      "place": "Barns and Noble, Two Notch Rd.",
+      "title": "Black Atom Event 8",
+      "date": "10/15/18",
+      "place": "Olive Garden",
       "notes": "Free signing to the first 50 customers"
     }
   ]
